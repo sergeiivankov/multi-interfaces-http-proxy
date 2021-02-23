@@ -1,0 +1,16 @@
+{
+  "name": "multi-interfaces-http-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeiivankov/multi-interfaces-http-proxy.git"
+  },
+  "author": "Sergei Ivankov <sergeiivankov@yandex.ru>",
+  "license": "MIT"
+}
