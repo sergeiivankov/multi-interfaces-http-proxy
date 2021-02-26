@@ -11,3 +11,9 @@ Can proxying single HTTP requests, HTTPS and WebSocket connections.
 Edit variables in config.js:
 * ALLOW_IPS - array of IP addresses, who can connect;
 * PORT - proxy server port.
+
+Start proxy with command:
+
+```bash
+npm run start
+```
